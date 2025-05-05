@@ -16,8 +16,7 @@ The app is built with React on the frontend and AWS Lambda on the backend. It us
 - Spotify API
 - Unsplash API
 
-**How to run the website:**
-
+## How to Run the Website: 
 1. Clone the repository:
 git clone https://github.com/geeraysury/VibeGenerator.git
 cd VibeGenerator
